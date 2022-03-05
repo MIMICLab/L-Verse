@@ -1,0 +1,14 @@
+torch
+torchvision
+pudb
+pytorch-lightning
+einops
+regex
+ftfy
+cython
+WebDataset
+pillow
+wandb
+sklearn
+tensorboard
+mkl-service

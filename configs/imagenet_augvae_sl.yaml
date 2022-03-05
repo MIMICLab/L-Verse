@@ -1,0 +1,15 @@
+finetune: True
+pretrained_path: 'mlvae.ckpt'
+attn_resolutions: [32] 
+loss_type: lpips_l2
+learning_rate: 4.5e-6
+p_loss_weight: 0.1
+epochs: 30
+batch_size: 8
+backup: True
+log_images: True
+num_workers: 16
+image_log_steps: 1000
+lr_decay: True
+
+

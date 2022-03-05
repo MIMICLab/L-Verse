@@ -1,0 +1,13 @@
+num_tokens: 8192 
+ch_mult: [1,2,4]
+attn_resolutions: [64, 32, 16, 8]
+loss_type: lpips_l2
+p_loss_weight: 0.1
+epochs: 30
+batch_size: 8
+backup: True
+log_images: True
+num_workers: 16
+image_log_steps: 1000
+lr_decay: True
+
