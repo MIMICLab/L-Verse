@@ -4,7 +4,7 @@
 
 **LG AI Research**
 
-**CVPR 2022** 
+**CVPR 2022 Oral Presentation** 
 
 <img src=assets/lverse.png width=1280>
 
