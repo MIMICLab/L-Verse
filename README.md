@@ -105,7 +105,7 @@ There's also [Pytorch Lightning version](https://github.com/williamFalcon/minGPT
 This project is distributed under MIT license.
 
 ```
-Copyright (c) 2021-present LG AI Research.
+Copyright (c) 2022-present LG AI Research.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
