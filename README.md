@@ -4,7 +4,7 @@
 
 **LG AI Research**
 
-**CVPR 2022 Oral Presentation** 
+**CVPR 2022 (Oral)** 
 
 <img src=assets/lverse.png width=1280>
 
@@ -75,7 +75,7 @@ python eval_vae.py --fake_data --configs [config_file] --ckpt_path [weight_file]
 ```
 
 ## BiART
-Among many open-sourced Transformer (GPT) repositories, we used Andrej Karpathy's [minGPT](https://github.com/karpathy/minGPT) with extra embedding layer for the Segment Embedding. 
+Among many open-sourced Transformer (GPT) repositories, we used Andrej Karpathy's [minGPT](https://github.com/karpathy/minGPT) with extra embedding layer for Segment Embedding. 
 
 Here's an example modification code to apply Segment Embedding to [minGPT](https://github.com/karpathy/minGPT).
 
