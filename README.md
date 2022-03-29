@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ## AugVAE
 ### Training
-For faster training, we our training code supports multi-gpu. 
+For faster training, our training code supports multi-gpu. 
 To enable multi-gpu training, add " --gpus " flag with number of gpus in your machine (default 1).
 
 
@@ -58,7 +58,7 @@ python train_vae.py --fake_data --configs [config_file]
 ```
 
 ### Evaluation 
-For faster evaluation, we our evaluation code supports multi-gpu. 
+For faster evaluation, our evaluation code supports multi-gpu. 
 To enable multi-gpu evaluation, add " --gpus " flag with number of gpus in your machine (default 1).
 
 For evaluation, provide config file, pretrained AugVAE weight, and test dataset
