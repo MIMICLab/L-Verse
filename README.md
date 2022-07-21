@@ -128,13 +128,13 @@ THE SOFTWARE.
 
 ## How to cite
 ```
-@misc{kim2021lverse,
-      title={L-Verse: Bidirectional Generation Between Image and Text}, 
-      author={Taehoon Kim and Gwangmo Song and Sihaeng Lee and Sangyun Kim and Yewon Seo and Soonyoung Lee and Seung Hwan Kim and Honglak Lee and Kyunghoon Bae},
-      year={2021},
-      eprint={2111.11133},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@InProceedings{Kim_2022_CVPR,
+    author    = {Kim, Taehoon and Song, Gwangmo and Lee, Sihaeng and Kim, Sangyun and Seo, Yewon and Lee, Soonyoung and Kim, Seung Hwan and Lee, Honglak and Bae, Kyunghoon},
+    title     = {L-Verse: Bidirectional Generation Between Image and Text},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {16526-16536}
 }
 ```
 
