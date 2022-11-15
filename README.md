@@ -1,4 +1,4 @@
-# L-verse: Bidirectional Generation Between Image and Text
+# L-Verse: Bidirectional Generation Between Image and Text
 
 **Taehoon Kim, Gwangmo Song, Sihaeng Lee, Sangyun Kim, Yewon Seo, Soonyoung Lee, Seung Hwan Kim, Honglak Lee, Kyunghoon Bae [[Paper]](https://arxiv.org/abs/2111.11133.pdf)** 
 
